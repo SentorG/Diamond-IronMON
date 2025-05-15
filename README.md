@@ -21,7 +21,7 @@ Pokémon Diamond & Pearl were released in April 2007 and Platinum was released i
 | **Nat. Dex** | Acquire the National Dex when Rowan gives you the Pokédex inside Sandgem Lab. |
 | **Faster Healing** | Faster healing at Pokémon Centers. |
 | **Name Raters** | Name rater NPC Psyducks in all Pokémon Centers. |
-| **Friendship NPC (Sandgem)** | Added a friendship-increasing NPC (now with no limitations). |
+| **Friendship NPC (Sandgem)** | Added a friendship-increasing NPC (with no limitations). |
 | **Tutorial Skip** | Removed the catching tutorial on Route 202. |
 | **Expanded Pokétch** | Loaded the Pokétch with the Clock, Memo Pad, Pedometer, Pokémon List, Pokémon History & Color Changer apps when you first pick it up. |
 | **Faster Fishing** | Fishing with the Old Rod has a 100% encounter rate. |
