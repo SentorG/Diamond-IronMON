@@ -9,7 +9,7 @@ To patch your legally acquired Pokémon Diamond ROM, go to **https://www.marcrob
 ### Please note: this patch requires the **(USA) (Rev 5) Version** of Diamond to work correctly.<br>If you find anything wrong with my patches, or have any suggestions for improvements, please let me know through my DMs on Discord. You can find me in the **[IronMON Discord server](https://discord.com/invite/jFPYsZAhjX) (user ID: sentor_g)**.
 
 ## Why is my game crashing?
-Pokémon Diamond & Pearl were released in April 2007 and Platinum was released in September 2008. In between that time frame, significant improvements were made to the engine which made Platinum, from a ROM hackers perspective, easier to work with and manipulate/edit. This also means that alternate forms of Pokémon, such as Deoxys, Rotom and Wormadam, will break the game.<br><br>I have formulated a <ins>**4.6.1** randomiser string</ins> to be used for Diamond IronMON runs: `322WRIEEjKDAYYBiQGRAAKeBhsECQEAFAACCQAuEgAAAAAADBCI5ATkAYYICTIGBQIyAA0YE1Bva2Vtb24gRGlhbW9uZCAoVSmWHpX5d9pgcA==`
+Pokémon Diamond & Pearl were released in April 2007 and Platinum was released in September 2008. In between that time frame, significant improvements were made to the engine which made Platinum, from a ROM hackers perspective, easier to work with and manipulate/edit. This also means that alternate forms of Pokémon, such as Deoxys, Rotom and Wormadam, will break the game.<br><br>I have formulated a <ins>**4.6.1** randomiser string</ins> to be used for Diamond Kaizo IronMON runs: `322WRIEEjKDAYYBiQGRAAKeBhsECQEAFAACCQAuEgAAAAAADBCI5ATkAYYICTIGBQIyAA0YE1Bva2Vtb24gRGlhbW9uZCAoVSmWHpX5d9pgcA==`<br>Please adjust this to meet your ruleset requirements.
 
 ## Patch Modification List:
 | **Update** | **Details** |
