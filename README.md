@@ -14,8 +14,8 @@ Pokémon Diamond & Pearl were released in April 2007 and Platinum was released i
 ## Patch Modification List:
 | **Update** | **Details** |
 |:-:|:-|
-| **Rowan Skip** | Rowan Introduction skip and faster character selection. |
-| **Options QoL** | Set mode on by default. Many thanks to Blue Honey for help with the Hex edits. |
+| **Rowan Skip** | Rowan introduction skip and faster character selection. |
+| **Options QoL** | Set mode on by default. Many thanks to BlueHoney for help with the Hex edits. |
 | **Dialogue Skip** | Massive dialogue overhaul from the moment you start to the Hall of Fame. Less yapping, faster battling. |
 | **Hands-free Briefcase** | No buttons required through Lake Verity dialogue.<br>Many areas have incredibly fragile code (in terms of randomiser compatibility). Game interactions have been shortened as much as possible while maintaining the ability to successfully randomise the ROM. |
 | **Nat. Dex** | Acquire the National Dex when Rowan gives you the Pokédex inside Sandgem Lab. |
