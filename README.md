@@ -2,7 +2,7 @@
 
 A big thanks to PyroMike for his support throughout this project. Many thanks to devbotman for their contributions to the friendship-increasing NPC in Sandgem Town and BlueHoney for their help locating the Hex values associated with the Rowan tutorial section and Set mode.
 <br><br>
-Check out the releases page [**here**](https://github.com/SentorG/diamond-ironmon/releases).
+Check out the releases page [**here**](https://github.com/SentorG/Diamond-IronMON/releases).
 <br><br>
 To patch your legally acquired Pokémon Diamond ROM, go to **https://www.marcrobledo.com/RomPatcher.js/** and use the .xDelta patch of your choice provided in the release section.
 
